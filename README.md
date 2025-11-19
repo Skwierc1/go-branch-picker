@@ -30,3 +30,11 @@ Build the program:
 ```bash
 go build -o gbp main.go
 ```
+
+## Preference
+
+Copy binary to /usr/bin and run program directly.
+
+```bash
+cp gbp /usr/bin/
+```
